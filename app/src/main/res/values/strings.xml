@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">cyrilFranciscoAndroid</string>
+    <string name="game_title">Games</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="count_game">Nombre de parties jouées : </string>
+    <string name="name">Choississez un nom</string>
 </resources>
